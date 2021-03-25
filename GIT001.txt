@@ -1,0 +1,9 @@
+ctl-opt 
+	dftactgrp(*no) actgrp(*no);
+	
+	
+	*inlr = *on;
+	
+	*in01 = *on;
+	
+	return;
